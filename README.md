@@ -1,7 +1,6 @@
-=====================================================================
+KOPI NUSANTARA
  KOPI NUSANTARA - Website Promosi dan Pemesanan Produk Kopi Lokal
  Proyek Uji Kompetensi Junior Programmer
-=====================================================================
 
 DESKRIPSI
 ---------
